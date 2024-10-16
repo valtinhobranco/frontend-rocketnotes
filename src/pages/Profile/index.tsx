@@ -10,12 +10,11 @@ import * as Icon from "react-icons/fi";
 import AvatarPlaceHolder from "../../assets/avatar_placeholder.svg";
 
 // ? styles
-import { Link, useNavigate } from 'react-router-dom';
+import {  useNavigate } from 'react-router-dom';
 import { Button } from '../../components/Button';
 import { Input } from '../../components/Input';
 import * as Styles from "./styles";
 import { api } from "../../services/api";
-import { ButtonText } from "../../components/ButtonText";
 
 
 
